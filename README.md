@@ -4,3 +4,7 @@ In neuroscience, tractography is a 3D modeling technique used to visually repres
 This project simulates the described process in 2D.
 
 The vector field is the simulation of a possible output from the DWI's. We then follow the field to generate the most probable tracts.
+
+Here is a showcase of the simulation:
+
+![gif](screenshots/showcase.gif)
