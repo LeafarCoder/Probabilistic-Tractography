@@ -7,11 +7,8 @@ This project simulates the described process in 2D.
 
 The vector field is the simulation of a possible output from the DWI's. We then follow the field to generate the most probable tracts.
 
-Here is a showcase of the simulation:
+## Examples
 
-![gif](screenshots/showcase.gif)
-
-<br><br>
 Example of sequence of flow in a 2D vector field<br>
 
 |  |  |
@@ -25,3 +22,10 @@ Flow seq. 2<br><img src="/screenshots/trat_seq_3.png" width="450"/> | Flow seq. 
   With a different visualization mode the track can be colored depending on the traversed direction:<br>
   <img src="/screenshots/trat_1.png" width="600"/>
 </p>
+
+<br><br>
+
+Here is a showcase of the simulation:
+
+![gif](screenshots/showcase.gif)
+
