@@ -14,12 +14,14 @@ Here is a showcase of the simulation:
 <br><br>
 Example of sequence of flow in a 2D vector field<br>
 
-| Generative seed | Flow seq. 1 | Flow seq. 2 | Flow seq. 3
-:----:|:----:|:----:|:----:
-<img src="/screenshots/trat_seq_seed.png" width="220"/> | <img src="/screenshots/trat_seq_2.png" width="220"/> | <img src="/screenshots/trat_seq_3.png" width="220"/> | <img src="/screenshots/trat_3.png" width="220"/>
+|  |  |
+:----:|:----:
+Generative seed<br><img src="/screenshots/trat_seq_seed.png" width="450"/> | Flow seq. 1<br><img src="/screenshots/trat_seq_2.png" width="450"/>
+Flow seq. 2<br><img src="/screenshots/trat_seq_3.png" width="450"/> | Flow seq. 3<br><img src="/screenshots/trat_3.png" width="450"/>
 
 <br><br>
-With a different visualization mode the track can be colored depending on the traversed direction:<br>
+
 <p align="center">
+  With a different visualization mode the track can be colored depending on the traversed direction:<br>
   <img src="/screenshots/trat_1.png" width="600"/>
 </p>
