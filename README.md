@@ -29,3 +29,10 @@ Here is a showcase of the simulation:
 
 ![gif](screenshots/showcase.gif)
 
+## Run Simulation:
+
+To run the simulation on your computer:
+1. Install Processing from [here](https://processing.org/download/).
+2. Download the Github directory clicking [here](https://github.com/LeafarCoder/Probabilistic-Tractography/archive/master.zip) or with any other option from the green button above.
+3. Open the *tratografia.pde* file (inside *the tratografia* folder) with Processing.
+4. Run the sketch (play button on top or *CTRL+R*).
